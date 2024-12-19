@@ -1,0 +1,39 @@
+/* 1 */
+/* table {
+    border-style: double;
+    width: 50%;
+}
+table, th, td {
+    border: 2px solid green;
+}
+th {
+    background-color: orange;
+    padding: 10px;
+}
+td {
+    text-align: center;
+    padding: 8px;
+} */
+/* 2 */
+ /* table {
+    width: 400px;
+}
+table, th, td {
+    border: 2px solid rgb(215, 15, 15);
+}
+th {
+    background-color: yellow;
+}
+td {
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 8px;
+} */
+ /* 3 */
+ /* table, th, td {
+    border-color: green;
+}
+th, td {
+    border: 50%;
+} */
